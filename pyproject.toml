@@ -1,0 +1,17 @@
+[project]
+name = "xperience"
+version = "0.1.0"
+description = "projects i worked on for various employers"
+authors = [
+    {name = "vishnu rao"}
+]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "mkdocs (>=1.6.1,<2.0.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

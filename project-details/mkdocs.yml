@@ -1,0 +1,10 @@
+site_name: "My Resume"
+theme:
+  name: material  # Or another theme you like
+nav:
+  - Home: index.md
+  - Experience:
+      - Fiorano: fiorano.md
+      - Flipkart: flipkart.md
+  - Contact: contact.md
+
