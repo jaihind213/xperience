@@ -1,6 +1,6 @@
 site_name: "My Resume"
 theme:
-  name: material  # Or another theme you like
+  name: Material  # Or another theme you like
 nav:
   - Home: index.md
   - Experience:
